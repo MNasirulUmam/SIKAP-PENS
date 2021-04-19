@@ -22,4 +22,3 @@
 2. Email | password : admin@admin.com | password
 
 
-![alt text](https://github.com/tegarpratama/portal-news/blob/master/capture.png?raw=true)
