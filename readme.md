@@ -16,10 +16,9 @@
 
 # **How to login as admin :** 
 
-1. add to url with "/admin" (http://localhost/portal-news/admin)
+1. add to url with "/admin" (http://localhost/sikap-pens/admin)
 
 
 2. Email | password : admin@admin.com | password
 
 
-![alt text](https://github.com/tegarpratama/portal-news/blob/master/capture.png?raw=true)
