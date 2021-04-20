@@ -7,18 +7,13 @@
 5. Sweetalert2
 6. Summernote
 
-# **Step Configuration**:
+# **Nama Kelompok**:
 
-1. create database with name db_blog
-2. import file in folder database to phpmyadmin
-3. done
+1. M.Nasirul Umam
+2. Riqi Wahyudi 
+3. Fina
+4. Wahyu Ikbal Tawakal
+5. Ahmad Rizal Ramadani
 
-
-# **How to login as admin :** 
-
-1. add to url with "/admin" (http://localhost/sikap-pens/admin)
-
-
-2. Email | password : admin@admin.com | password
 
 
