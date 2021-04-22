@@ -12,7 +12,9 @@
                   <a class="gad_btn" href="<?= base_url("blog/category/$popular->slug") ?>"><?= $popular->category_name ?></a>
                   <a href="#" class="float-right"><i class="fa fa-calendar" aria-hidden="true"></i><?= mediumdate_indo($popular->date) ?></a>
                </div>
-               <a href="<?= base_url("blog/read/$popular->seo_title") ?>"><h4><?= $popular->title ?></h4></a>
+               <a href="<?= base_url("blog/read/$popular->seo_title") ?>">
+                  <h4><?= $popular->title ?></h4>
+               </a>
                <p><?= character_limiter($popular->content, 150) ?></p>
             </div>
          </div>
@@ -21,7 +23,7 @@
             <h2>Trending Now</h2>
          </div>
          <div class="news_slider owl-carousel">
-            <?php foreach($trending as $t) : ?>
+            <?php foreach ($trending as $t) : ?>
                <div class="item">
                   <div class="choice_item">
                      <img src="<?= base_url('images/posting/xsmall/' . $t->photo) ?>" alt="">
@@ -30,7 +32,7 @@
                            <h4><?= $t->title ?></h4>
                         </a>
                         <div class="date">
-                           <a href="<?= base_url("blog/read/$t->seo_title") ?>"><i class="fa fa-calendar" aria-hidden="true"></i><?= mediumdate_indo($t->date) ?></a>       
+                           <a href="<?= base_url("blog/read/$t->seo_title") ?>"><i class="fa fa-calendar" aria-hidden="true"></i><?= mediumdate_indo($t->date) ?></a>
                         </div>
                      </div>
                   </div>
@@ -44,9 +46,9 @@
             <h2>Social Networks</h2>
          </div>
          <ul class="list">
-            <li><a href="#"><i class="fa fa-facebook"></i>Garsansnews.com<span>Like our page</span></a></li>
-            <li><a href="#"><i class="fa fa-twitter"></i>Garsansnews.com<span>Follow Us</span></a></li>
-            <li><a href="#"><i class="fa fa-youtube-play"></i>Garsansnews.com<span>Subscribe</span></a></li>
+            <li><a href="#"><i class="fa fa-twitter"></i>penseepis<span>Follow Us</span></a></li>
+            <li><a href="#"><i class="fa fa-instagram"></i>penseepis<span>Like our page</span></a></li>
+            <li><a href="#"><i class="fa fa-youtube-play"></i>pens tv<span>Subscribe</span></a></li>
          </ul>
       </aside>
 
