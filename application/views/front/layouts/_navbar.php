@@ -25,17 +25,17 @@ $category = $this->uri->segment(3);
          </ul>
          <ul class="nav navbar-nav ml-auto w-100 justify-content-end">
             <li class="nav-item">
-               <a class="nav-link" href="<?= base_url() ?>">
+               <a class="nav-link" href="https://twitter.com/penseepis">
                   <i class="fa fa-twitter"></i>
                </a>
             </li>
             <li class="nav-item">
-               <a class="nav-link" href="<?= base_url() ?>">
+               <a class="nav-link" href="https://www.instagram.com/penseepis/">
                   <i class="fa fa-instagram"></i>
                </a>
             </li>
             <li class="nav-item">
-               <a class="nav-link" href="<?= base_url() ?>">
+               <a class="nav-link" href="https://www.youtube.com/channel/UCgCH04Vjy22hnfTZBTMDccQ/">
                   <i class="fa fa-youtube-play"></i>
                </a>
             </li>

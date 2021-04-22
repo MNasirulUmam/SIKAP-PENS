@@ -5,7 +5,7 @@
          <div class="col-lg-4 col-md-6 col-sm-6">
             <div class="single-footer-widget ab_widgets">
                <div class="f_title">
-                  <h3>sikap.pens.ac.id</h3>
+                  <h3>Sikap Pens</h3>
                </div>
                <p>SIKAP PENS merupakan portal berita mengenai Keja Praktek khusus bagi mahasiswa pens</p>
             </div>
