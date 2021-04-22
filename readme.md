@@ -7,6 +7,12 @@
 5. Sweetalert2
 6. Summernote
 
-# **Step Configuration**:
+# **Nama Kelompok**:
+
+1. M.Nasirul Umam
+2. Riqi Wahyudi 
+3. Fina
+4. Wahyu Ikbal Tawakal
+5. Ahmad Rizal Ramadani
 
 
