@@ -8,7 +8,7 @@ $category = $this->uri->segment(3);
 <nav class="navbar navbar-light navbar-expand-lg navbar-light bg-light fixed-top home">
    <div class="container">
       <a href="<?= base_url() ?>" class="navbar-brand d-flex w-50 mr-auto">
-         <img src="<?= base_url('images/brand/logo-via-logohub.png') ?>" alt="" width="100px" height="100px">
+         <img src="<?= base_url('images/brand/logo-via-logohub.png') ?>" alt="" width="275px" height="40px">
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar3">
          <span class="navbar-toggler-icon"></span>
